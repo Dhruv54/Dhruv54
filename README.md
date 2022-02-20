@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv54&show_icons=true&locale=en&layout=compact&theme=radical" alt="dhruv54" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv54&show_icons=true&locale=en" alt="dhruv54" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv54&show_icons=true&locale=en&theme=radical" alt="dhruv54" /></p>
