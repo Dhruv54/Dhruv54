@@ -20,4 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv54&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dhruv54" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv54&show_icons=true&locale=en&theme=tokyonight" alt="dhruv54" /></p>
-<p><div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p></p>
+<p>&nbsp;<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="dhruv54" /></p>
