@@ -1,7 +1,6 @@
-<p>&nbsp;<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
 <h1 align="center">Hey 👋, I'm Dhruv Patel</h1>
 <h3 align="center">Trying to Exploring Things!!!</h3>
-
+<p>&nbsp;<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
 - 🌱 I’m currently learning **Machine Learning,Tkinter etc**
 
 - 📫 How to reach me **190310patel@gmail.com**
