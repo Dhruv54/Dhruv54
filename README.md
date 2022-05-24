@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Dhruv Patel</h1>
-<p align="right"><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
+<p align="center"><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></p>
 <h3 align="left">Trying to Exploring Things!!!</h3>
 - 🌱 I’m currently learning **Machine Learning,Tkinter etc**
 
