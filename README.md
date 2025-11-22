@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **Machine Learning,AI,Blockchain,Cloud computing etc**
 
-- 📫 How to reach me **190310patel@gmail.com**
+- 📫 How to reach me **dhruvpatel.dev01@gmail.com**
 
 - ⚡ Fun fact **I think I am funny :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhruv-patel-7b963a232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv patel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pateldhruv003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv patel" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/190310patel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="190310patel1" height="30" width="40" /></a>
 <a href="https://instagram.com/flying_star003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flyingstar_003" height="30" width="40" /></a></p>
 
